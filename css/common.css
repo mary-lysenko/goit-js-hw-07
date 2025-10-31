@@ -90,6 +90,7 @@ body {
 /******************TASK-2******************/
 
 .js-gallery {
+  width: 1128px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
